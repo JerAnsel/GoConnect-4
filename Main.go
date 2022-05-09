@@ -4,11 +4,6 @@ import (
 	"fmt"
 )
 
-type Person struct {
-	name string
-	age  int
-}
-
 func printBoard(board [6][7]string) {
 	fmt.Println("---------------")
 	for i := range board {

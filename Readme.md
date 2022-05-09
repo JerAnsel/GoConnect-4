@@ -1,0 +1,1 @@
+This repo is a CLI Connect4 game written in go.
